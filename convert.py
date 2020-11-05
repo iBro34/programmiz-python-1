@@ -1,0 +1,6 @@
+m = int(input("Please enter a metr"))
+km = int(input("Please enter a km"))
+res = int(km*1000)
+result = int(m/1000)
+print( result,"km")
+print(res,"m")
